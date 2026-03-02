@@ -5,6 +5,7 @@
 | Branch | Goal | Status | Date Created | Last Updated |
 |---|---|---|---|---|
 | main | Project base trunk, initial setup | active | 2026-03-02 | 2026-03-02 |
+| docs/add-step-by-step-instructions | Add complete click-by-click build guide for all 7 project steps | ready for review | 2026-03-02 | 2026-03-02 |
 
 ---
 
@@ -22,7 +23,8 @@
 
 | Date | Commit | Description |
 |---|---|---|
-| 2026-03-02 | initial | chore: initial project setup, documentation structure, data schema |
+| 2026-03-02 | cf2c991 | docs: add comprehensive README with architecture, schema, and workflow |
+| 2026-03-02 | 999e8b1 | chore: initial project setup, documentation structure, data schema |
 
 ---
 
